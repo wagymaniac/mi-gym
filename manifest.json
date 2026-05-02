@@ -2,21 +2,21 @@
   "name": "Mi Gym",
   "short_name": "Mi Gym",
   "description": "Rutinas de gimnasio personalizadas",
-  "start_url": "/mi-gym/",
-  "scope": "/mi-gym/",
+  "start_url": "https://wagymaniac.github.io/mi-gym/index.html",
+  "scope": "https://wagymaniac.github.io/mi-gym/",
   "display": "standalone",
   "background_color": "#0f0f17",
   "theme_color": "#1a1a2e",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/mi-gym/icons/icon-192.png",
+      "src": "https://wagymaniac.github.io/mi-gym/icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/mi-gym/icons/icon-512.png",
+      "src": "https://wagymaniac.github.io/mi-gym/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
